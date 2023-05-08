@@ -1,0 +1,47 @@
+* {
+  font-family: 'Roboto';
+}
+p {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-weight: bold;
+}
+.game-container {
+  display: flex;
+  border: 1px solid #ffffff;
+  width: 40%;
+  justify-content: space-around;
+}
+.continer {
+  background-color: #223a5f;
+}
+h1 {
+  color: #ffffff;
+}
+.scorevalue {
+  margin-left: 90px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 200px;
+  font-size: 25px;
+}
+ul {
+  list-style-type: none;
+}
+button {
+  background-color: transparent;
+  border: none;
+}
+.trigger-button {
+  padding: 10px;
+  border: 1px solid;
+  background-color: #ffffff;
+  border-radius: 5px;
+}
+.playagainButton {
+  padding: 10px;
+  border: 1px solid;
+  background-color: #ffffff;
+  border-radius: 5px;
+}
